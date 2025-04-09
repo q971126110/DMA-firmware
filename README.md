@@ -1,4 +1,4 @@
-# DMA-firmware
+# DMA Free Firmware
 DMA firmware
 Bypass VGK/EAC/BE/
 
