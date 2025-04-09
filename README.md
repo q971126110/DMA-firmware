@@ -5,4 +5,4 @@ Firmware - EAC/BE bypass
 
 Firmware v2 - VGK/ACE/EAC/BE bypass
 
-Discord:https://discord.gg/WB35aXmV
+Free DMA software::Discord:https://discord.gg/WB35aXmV
